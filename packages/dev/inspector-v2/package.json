@@ -42,7 +42,7 @@
         "gif.js.optimized": "^1.0.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
-        "sharp": "^0.35.0",
+        "sharp": "^0.35.5",
         "ws": "^8.18.0"
     },
     "dependencies": {
